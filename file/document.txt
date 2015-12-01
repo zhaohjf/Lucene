@@ -3,3 +3,6 @@ http://www.tuicool.com/articles/UjYnm2Y
 
 Lucene5学习之LuceneUtils工具类简单封装
 http://iamyida.iteye.com/blog/2196808?utm_source=tuicool&utm_medium=referral
+
+lucene5.1教程之创建索引
+http://www.itxxz.com/Lucene/2015/0529/771.html
