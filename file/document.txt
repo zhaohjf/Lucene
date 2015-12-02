@@ -6,3 +6,11 @@ http://iamyida.iteye.com/blog/2196808?utm_source=tuicool&utm_medium=referral
 
 lucene5.1教程之创建索引
 http://www.itxxz.com/Lucene/2015/0529/771.html
+
+著作权归作者所有。
+商业转载请联系作者获得授权，非商业转载请注明出处。
+作者：周星星
+链接：http://www.zhihu.com/question/19910358/answer/13336156
+来源：知乎
+
+想起之前看过的一篇文章《五年java人的一点感悟》      里面作者有讲到怎么阅读tomcat源代码，可以看看
