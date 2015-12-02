@@ -54,7 +54,7 @@ public class LuceneTest {
 	    IndexSearcher isearcher = new IndexSearcher(ireader);
 	    //解析一个简单的查询
 	    QueryParser parser = new QueryParser("fieldname", analyzer);
-	    Query query = parser.parse("foreach");
+	    Query query = parser.parse("Log4j");
 	    ScoreDoc[] hits = isearcher.search(query, null, 1000).scoreDocs;
 	    //迭代输出结果
 	    for (int i = 0; i < hits.length; i++) {

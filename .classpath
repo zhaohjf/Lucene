@@ -2,9 +2,13 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
-	<classpathentry kind="lib" path="lib/lucene-analyzers-common-5.3.1.jar"/>
-	<classpathentry kind="lib" path="lib/lucene-core-5.3.1.jar"/>
+	<classpathentry kind="lib" path="lib/lucene-analyzers-common-5.3.1.jar" sourcepath="D:/lucene/lucene-5.3.1-src (1)/lucene-5.3.1/analysis/common/src"/>
+	<classpathentry kind="lib" path="lib/lucene-core-5.3.1.jar" sourcepath="D:/lucene/lucene-5.3.1-src (1)/lucene-5.3.1/core/src"/>
 	<classpathentry kind="lib" path="lib/lucene-queries-5.3.1.jar"/>
 	<classpathentry kind="lib" path="lib/lucene-queryparser-5.3.1.jar"/>
+	<classpathentry kind="lib" path="lib/lucene-demo-5.3.1.jar" sourcepath="D:/lucene/lucene-5.3.1-src (1)/lucene-5.3.1/demo/src"/>
+	<classpathentry kind="lib" path="lib/lucene-facet-5.3.1.jar"/>
+	<classpathentry kind="lib" path="lib/lucene-expressions-5.3.1.jar"/>
+	<classpathentry kind="lib" path="lib/servlet-api-2.4.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
